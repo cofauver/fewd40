@@ -3,3 +3,12 @@
 	background: transparent url(../images/GitHub_Logo.png) 0 0 no-repeat;
 	background-size: 50px;
 }
+
+.slack-button{
+	display: block;
+  	width: 138px;
+  	padding-left: 64px;
+  	margin-bottom: 20px;
+  	font-size: 21px;
+	background: transparent url(../images/Slack_RBG.png) 0 0 no-repeat;
+}
