@@ -594,12 +594,14 @@ table {
 
 th {
   font-weight: 500;
+
 }
 
 td {
   font-weight: 300;
-  text-align: center;
-  border: 1px solid #ebebeb;
+  border: 3px solid #ebebeb;
+  height: 22px;
+  padding: 3px;
 }
 
 form {

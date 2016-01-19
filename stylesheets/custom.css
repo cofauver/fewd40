@@ -1,14 +1,26 @@
 .github-column {
 
 	background: transparent url(../images/GitHub_Logo.png) 0 0 no-repeat;
-	background-size: 50px;
+	background-size: cover;
 }
 
 .slack-button{
 	display: block;
-  	width: 138px;
-  	padding-left: 64px;
-  	margin-bottom: 20px;
+	height:90px;
   	font-size: 21px;
 	background: transparent url(../images/Slack_RGB.png) 0 0 no-repeat;
+	background-size: cover;
+}
+
+.gform-icon{
+	display: block;
+	height:200px;
+  	font-size: 21px;
+	background: transparent url(../images/gform.png);
+	background-size: cover;
+	background-position: left top;
+}
+
+table {
+	font-size: 16px;
 }
