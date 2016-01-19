@@ -1,15 +1,15 @@
-.github-column {
-
+.github-wordmark {
 	background: transparent url(../images/GitHub_Logo.png) 0 0 no-repeat;
 	background-size: cover;
 }
 
 .slack-button{
 	display: block;
-	height:90px;
+	height:70px;
   	font-size: 21px;
 	background: transparent url(../images/Slack_RGB.png) 0 0 no-repeat;
 	background-size: cover;
+	background-position: left top;
 }
 
 .gform-icon{
@@ -19,6 +19,13 @@
 	background: transparent url(../images/gform.png);
 	background-size: cover;
 	background-position: left top;
+}
+.github-button{
+	background: #3278CD url(../images/github-button.png) no-repeat;
+	background-size: cover;
+  	border: 15px;
+  	border-radius: 10px;
+  	border-color: white;
 }
 
 table {
