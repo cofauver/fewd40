@@ -596,6 +596,7 @@ th {
 }
 
 td {
+  font-size: 12px;
   font-weight: 300;
   border: 3px solid #ebebeb;
   height: 22px;

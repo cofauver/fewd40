@@ -28,6 +28,6 @@
   	border-color: white;
 }
 
-table {
-	font-size: 16px;
+.table-headers{
+	font-weight: 500;
 }
