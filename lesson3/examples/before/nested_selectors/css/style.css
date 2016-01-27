@@ -1,0 +1,9 @@
+/*font-style*/
+blockquote{
+	font-style: italic;
+}
+
+.quote-emph{
+	font-style: normal;
+	font-weight: bold;
+}

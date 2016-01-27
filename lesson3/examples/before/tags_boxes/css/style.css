@@ -1,6 +1,32 @@
-/*h1, h2, h3, p, li {
+h1{
+	background-color: red;
+	padding: 30px;
+	border: 3px solid black;
+}
+p{
+	background-color: blue;
+	color: #fff;
+	padding: 50px 1px 10px 20px;
+	border: 50px dotted black;
+}
+code{
+	background-color: #ffffff;
+	color: #000;
+	padding: .25em;
+	border:3px solid green;
+	margin: 10px;
+}
+li{
+	margin-right:5px; 
+	margin-left:10px;
+	margin-top: 50px;
+}
+
+
+
+li {
 	display: inline;
-}*/
-/*code {
+}
+code {
 	display: block;
-}*/
+}
