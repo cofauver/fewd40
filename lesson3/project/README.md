@@ -9,7 +9,7 @@
 ###Description
 
 
-A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file.txt) for the site, along with the copy and assets. You need to take these files and turn it into a landing page.
+A hot, new SF Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file.txt) for the site, along with the copy and assets. You need to take these files and turn it into a landing page.
 
 
 ![Relaxr Landing Page](https://i.imgur.com/aiNUaDW.png)
@@ -70,4 +70,4 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ###Evaluation / Submission
 
-Students will create a new repository on GitHub called "homework-landingpage" and push their code to it when they are ready to submit. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). Bonus sections are completely optional. The maximum possible score on this assignment is 12/12.
+Students will create a new folder in their fewd40 repository and push their code to it when they are ready to submit. We will evaluate against the solution code and the student's use of technical elements. 
