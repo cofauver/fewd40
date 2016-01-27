@@ -1,6 +1,5 @@
 .github-wordmark {
-	background: transparent url(../images/GitHub_Logo.png) 0 0 no-repeat;
-	background-size: cover;
+	max-height: 100%;
 }
 
 .slack-button{
