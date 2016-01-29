@@ -1,0 +1,41 @@
+header{
+	background-color: red;
+	width:100%;
+	float:left;
+}
+section{
+	background-color: blue;
+	float:left;
+	width: 60%;
+}
+aside{
+	background-color: green;
+	
+	width:20%;
+
+}
+footer{
+	background-color: yellow;
+	display: block;
+	float:left;
+	width:100%;
+}
+
+.leftbar{
+	float:left;
+}
+.rightbar{
+	float:right;
+}
+
+.filler{
+	margin: 10px;
+	padding: 10px;
+	border:1px solid black;
+	background-color: white;
+	opacity: .8;
+}
+
+.content{
+	height:500px;
+}
