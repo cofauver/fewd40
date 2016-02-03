@@ -1,22 +1,36 @@
 header{
 	background-color: blue;
+	height: 100px;
+	width: 100%;
+	float:left;
 }
 section{
 	background-color: red;
+	width: 50%;
+	float:left;
 }
-aside{
-	background-color: yellow;
-}
+
 footer{
 	background-color: green;
+	height: 100px;
+	width: 100%;
+	float:left;
 }
 figure{
+	background-color: orange;
 	width: 33.33%;
+	float:left;
+}
+img{
+	width: 90%;
 }
 
 .filler{
 	background-color: white;
 	opacity: .8;
+	padding: 10px;
+	margin: 10px;
 }
 .content{
+	height: 300px;
 }
