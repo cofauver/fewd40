@@ -11,7 +11,7 @@
 
 Relaxr was really impressed by your work last week and wants you to continue development on their landing page. Starting in class, you will work to build out a more complex layout for their company site. They decided on creating a blog, and their back-end engineers will be focused on developing the blog's functionality. They want your front-end skills to style their designs using HTML and CSS so Relaxr's engineers can begin integrating. Once again, the designers have handed you a basic [design file with instructions](starter-code/readme) and the JPEG below to help you bring the blog to life. Submit the finished version for homework.
 
-![Relaxr Blog](solution_code/images/relaxr_blog.jpg)
+![Relaxr Blog](starter-code/images/relaxr_blog.jpg)
 
 <br>
 
