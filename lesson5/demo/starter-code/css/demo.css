@@ -1,0 +1,22 @@
+header{
+	background-color: blue;
+}
+section{
+	background-color: red;
+}
+aside{
+	background-color: yellow;
+}
+footer{
+	background-color: green;
+}
+figure{
+	width: 33.33%;
+}
+
+.filler{
+	background-color: white;
+	opacity: .8;
+}
+.content{
+}
