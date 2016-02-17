@@ -65,7 +65,7 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 ###Evaluation / Submission
 
 
-Students should use the same folder and GitHub repository as the previous project ("relaxr-landing"). When ready for evaluation they should push their code to that repository and notify the instructional team via slack. 
+Students should use the same folder and GitHub repository as the previous project ("relaxr-blog"). When ready for evaluation they should push their code to that repository and notify the instructional team via slack. 
 
 ###Final Project Milestone 1
 
