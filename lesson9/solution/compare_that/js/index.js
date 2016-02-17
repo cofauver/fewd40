@@ -4,6 +4,9 @@ function compare() {
   var a = $('#a').val();
   var b = $('#b').val();
 
+  a = parseFloat(a);
+  b = parseFloat(b);
+
   if (a < b) {
     comparison = '<';
   } else if (a > b) {
