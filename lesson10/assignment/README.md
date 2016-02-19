@@ -53,13 +53,13 @@ JavaScript is powerful: we're able to take user interaction and information and 
 Take a look at what your final product should look like before and after:
 
 
-![Deliverable](solution_code/images/citipix_solution.png)
+![Deliverable](starter_code/images/citipix_solution.png)
 
 
 After entering "NYC" and submitting:
 
 
-![Deliverable](solution_code/images/citipix_solution_nyc.png)
+![Deliverable](starter_code/images/citipix_solution_nyc.png)
 
 
 
@@ -79,6 +79,7 @@ NOTE: You will have to add these images to your ```/images``` folder
 
 ###Resources
 
+- [Starter code](starter_code)
 - [JavaScript docs on comparison operators](http://www.w3schools.com/js/js_comparisons.asp)
 - [JavaScript docs on variables](http://www.w3schools.com/js/js_variables.asp)
 
