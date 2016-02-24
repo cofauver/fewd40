@@ -10,6 +10,7 @@
 
 
 form{
+	text-align: center;
 	margin:auto;
 	width:60%;
 }
@@ -17,4 +18,7 @@ form{
 input{
 	width:45%;
 	font-size: 20pt;
+}
+.submit{
+	margin: 10px;
 }
