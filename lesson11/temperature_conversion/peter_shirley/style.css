@@ -1,0 +1,39 @@
+body{
+	padding: 50px;
+}
+.center{
+	text-align: center;
+	min-width:200px;
+	margin:100 auto;
+}
+input{
+	padding:15px;
+	border-radius: 6px;
+	border: 1px solid #ccc;
+}
+button{
+	padding:4px 20px;
+}
+[type=submit]{
+	margin: 20px auto;
+	display: block;
+}
+.image{
+	height:300px;
+	width:300px;
+	border-radius: 500px;
+	background-color: gray;
+	margin:20 auto;
+}
+.cold{
+	background-color: #add8e6;
+}
+.freezing{
+	background-color: blue;
+}
+.hot{
+	background-color: red;
+}
+.warm{
+	background-color: orange;
+}
