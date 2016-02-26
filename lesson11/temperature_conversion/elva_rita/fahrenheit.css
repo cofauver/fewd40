@@ -1,0 +1,11 @@
+.cold{
+	background-image:url("cold-weather.jpg");
+}
+
+.mild{
+	background-image:url("http://cdn.c.photoshelter.com/img-get/I00008K7O.aJJ_fI/s/850/850/IMG-9336-9337-9338-HDR-Russian-Gulch-Bridge-Hwy-1-Mendocino-CA.jpg");
+}
+
+.hot{
+	background-image:url("http://blog.williamhill.com.au/wp-content/files/sites/13/2015/08/Tahiti-Teahupoo.jpg");
+}
