@@ -1,0 +1,56 @@
+*{
+	border:1px solid black;
+}
+
+article{
+	width: 28%;
+	height:12em;	
+	display: inline-block;
+	margin:2%;
+}
+
+header{
+	width: 100%;
+	height: 4em;
+}
+
+nav{
+	display: inline-block;
+	margin:.5em;
+	height:2em;
+	width:10%;
+}
+
+section{
+	width:60%;
+	min-height: 15em;
+	margin:auto;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.mobile-nav-button{
+	margin:.5em;
+	height:2em;
+	width:2em;
+	visibility: hidden;
+	float:right;
+}
+
+
+
+@media (max-device-width: 768px), (max-width: 768px) {
+	section{
+		width:90%;
+	}
+	section article{
+		width: 95%;
+	}
+	nav{
+		visibility: hidden;
+	}
+	.mobile-nav-button{
+		visibility: visible;
+	}
+}
+
