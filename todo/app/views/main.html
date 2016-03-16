@@ -1,0 +1,21 @@
+<div class="jumbotron">
+  <div class="input-group">
+    <input type="text" class="form-control" placeholder="Task to do"
+    ng-model="form.newItem">
+    <span class="input-group-btn">
+      <button class="btn btn-success" type="button" ng-click="addItem(form.newItem)">+</button>
+    </span>
+  </div>
+  <div class="todos" ng-repeat="todo in todoList" >
+    <span class="glyphicon glyphicon-ok" ng-click="removeItem(todo)"></span>{{todo}}
+  </div>
+
+</div>
+
+
+<div class="jumbotron" ng-show="completedTasks.length > 0">
+  <h2>Completed Tasks!</h2>
+  <div class="todos complete" ng-repeat="oldTask in completedTasks">
+    {{oldTask}}
+  </div>
+</div>
