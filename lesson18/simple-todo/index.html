@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Angular tutorial</title>
+
+	<!-- Latest compiled and minified Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+	<!-- CDN of the Angular framework-->
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+
+	<!-- My custom scripts -->
+	<script type="text/javascript" src="app.js"></script>
+</head>
+
+<body ng-app="myApp" ng-controller="appCtrl">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<input ng-model="taskName" class="form-control">
+				<button class="btn btn-primary" ng-click="toDos.push(taskName); taskName = ''">
+					<span class="glyphicon glyphicon-plus"></span>
+				</button>
+			</div>
+			<div class="col-sm-12" ng-repeat="task in toDos">	
+				<h2>
+					<button ng-click="deleteTask(task)" class="btn btn-primary">
+						<span class="glyphicon glyphicon-ok">
+						</span>
+					</button>
+					{{task}}
+				</h2>
+			</div>
+			<h1 class="col-sm-12">{{taskName}}</h1>
+		</div>
+	</div>
+</body>
+</html>
