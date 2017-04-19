@@ -1,7 +1,7 @@
-##Lesson 06 - Lab Session
+## Lesson 06 - Lab Session
 
 
-###LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 
 *	Practice web development by transforming a design comp into an HTML and CSS web page.
 
