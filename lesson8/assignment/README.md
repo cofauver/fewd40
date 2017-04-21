@@ -1,11 +1,11 @@
-#FEWD Week #4: JavaScript Basics
+# FEWD Week #4: JavaScript Basics
 
 <br>
 
 ---
 
 
-###Description 
+### Description 
 
 The team from Relaxr is back...again! They want their page to be more interactive and asked you to add JavaScript to their source code. You've been given the HTML and CSS but will need to create a JavaScript file and add a few different pieces of interactivity:  Users should be able to click a link and have the remainder of the blog's content slide down and appear on the page, both on the main content column and the side bar; users should also be able hide the content when they are finished reading. See a detailed technical explanation below.
 
@@ -15,7 +15,7 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 ---
 
 
-###Real-World Applications
+### Real-World Applications
 
 
 - Practice programmatic thinking to plan before writing code
@@ -28,7 +28,7 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 ---
 
 
-###Technical Requirements 
+### Technical Requirements 
 
 - Prevent a form submission with the ```event.preventDefault()``` function
 - Use the ```$.ready()``` handler to delay your code from executing until all DOM assets have been loaded
@@ -51,7 +51,7 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 ---
 
-###Resources
+### Resources
 
 - [Starter Code](starter_code)
 - [Cheat-sheet of jQuery selectors, methods, and events](http://oscarotero.com/jquery/)
@@ -62,11 +62,11 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 ---
 
-###Evaluation / Submission
+### Evaluation / Submission
 
 
 Students should use the same folder and GitHub repository as the previous project ("relaxr-blog"). When ready for evaluation they should push their code to that repository and notify the instructional team via slack. 
 
-###Final Project Milestone 1
+### Final Project Milestone 1
 
 By this week, you should have created and handed in wireframes that sketch out your idea and basic design for a final project.
